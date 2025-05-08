@@ -4,7 +4,7 @@ This repository contains custom G-code scripts for 3D printing operations, desig
 
 ## ⚠️ Important Disclaimer
 
-These scripts have only been tested on my personal printer and are published as a guide only. I am not a professional, and these scripts have the potential to damage your printer if used incorrectly. Use these scripts at your own risk. Always verify the commands are appropriate for your specific printer model and configuration before running them.
+These G-code scripts have been tested exclusively on a Prusa Mini+ printer. While provided as a helpful reference, please note that I am not a professional 3D printing expert. These scripts could potentially cause damage to your printer if used improperly. Exercise caution and verify all commands are compatible with your specific printer model and settings before execution. Always review the code thoroughly before running it - never blindly trust code from external sources.
 
 ## Available Scripts
 
@@ -38,4 +38,4 @@ Feel free to submit pull requests or open issues to suggest improvements or repo
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the [MIT License](LICENSE).
